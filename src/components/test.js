@@ -1,7 +1,7 @@
-export function test () {
-    return(
-        <>
-        <h1>damshly</h1>
-        </>
-    )
+import React from 'react'
+
+export const test = () => {
+  return (
+    <div>test</div>
+  )
 }
