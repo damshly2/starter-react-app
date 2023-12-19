@@ -1,7 +1,9 @@
+import Test from "./components/test"
+
 function App() {
   return (
     <>
-    <test/>
+    <Test/>
     </>
   );
 }
